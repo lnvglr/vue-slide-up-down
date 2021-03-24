@@ -169,7 +169,7 @@ export default {
 .expand-leave-to {
 	height: 0;
 	opacity: var(--opacity);
-	transform: scale(--scale);
+	transform: scale(var(--scale));
 	padding: 0;
 	margin: 0;
 }
