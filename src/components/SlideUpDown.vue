@@ -148,7 +148,7 @@ export default {
 
 <style scoped>
 * {
-	will-change: height,margin, padding, transform, opacity;
+	will-change: height, margin, padding, transform, opacity;
 	transform: translateZ(0);
 	backface-visibility: hidden;
 	perspective: 1000px;
